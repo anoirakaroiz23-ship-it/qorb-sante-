@@ -1,0 +1,4 @@
+﻿venv/
+.env
+qorb.db
+__pycache__/
